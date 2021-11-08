@@ -1,0 +1,2 @@
+This is my first github project. I am making this to become familiar with using GitHub as a space to back up and 
+share my work. It is also a resource I plan on using for interviews for sharing my code with potential employers.
